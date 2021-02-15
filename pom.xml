@@ -71,8 +71,8 @@
   <distributionManagement>
    <repository>
      <id>github</id>
-     <name>GitHub pramodhmdt Apache Maven Packages</name>
-     <url>https://maven.pkg.github.com/iishwaryark/package-repo</url>
+     <name>GitHub iishwaryark Apache Maven Packages</name>
+     <url>https://maven.pkg.github.com/iishwaryark/refactored</url>
    </repository>
   </distributionManagement>
 
